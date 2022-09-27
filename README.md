@@ -22,7 +22,7 @@ Siempre estamos en busca de personas que quieran aportar al proyecto, aceptamos 
 
 * [Discord](https://discord.gg/RPwHYEqndZ)
 
-## De la A a la Z, estos son los que parcipan activamente en el desarrollo y mantenimiento de Ventanilla única:
+## De la A a la Z, estos son los que participan activamente en el desarrollo y mantenimiento de Ventanilla única:
 
 * ChyBeat 
 * Javi M.
